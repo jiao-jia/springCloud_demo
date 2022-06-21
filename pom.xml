@@ -26,7 +26,7 @@
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
-        <mysql.version>5.0.4</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <alibaba.version>1.0.31</alibaba.version>
         <mybatis.version>1.3.0</mybatis.version>
         <logback.version>1.2.3</logback.version>
